@@ -9,3 +9,5 @@ This project want to mark some interest features in python, hope can understand 
 
 [Python Global Interpreter Lock](note/GIL.md)
 
+[Why_python_slow](note/Why_python_slow.md)
+
